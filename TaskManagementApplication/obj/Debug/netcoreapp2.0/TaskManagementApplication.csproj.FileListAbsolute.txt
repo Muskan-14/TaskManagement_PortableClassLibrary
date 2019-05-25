@@ -1,0 +1,14 @@
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementLibrary.dll
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.csprojAssemblyReference.cache
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.csproj.CoreCompileInputs.cache
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.AssemblyInfoInputs.cache
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.AssemblyInfo.cs
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementApplication.deps.json
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementApplication.runtimeconfig.json
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementApplication.runtimeconfig.dev.json
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementApplication.dll
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementApplication.pdb
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\bin\Debug\netcoreapp2.0\TaskManagementLibrary.pdb
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.csproj.CopyComplete
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.dll
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementApplication\obj\Debug\netcoreapp2.0\TaskManagementApplication.pdb

@@ -1,0 +1,9 @@
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\bin\Debug\netcoreapp2.0\TaskManagementLibrary.deps.json
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\bin\Debug\netcoreapp2.0\TaskManagementLibrary.dll
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.csproj.CoreCompileInputs.cache
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.AssemblyInfoInputs.cache
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.AssemblyInfo.cs
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\bin\Debug\netcoreapp2.0\TaskManagementLibrary.pdb
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.dll
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.pdb
+c:\users\jsethim\source\repos\TaskManagementLibrary\TaskManagementLibrary\obj\Debug\netcoreapp2.0\TaskManagementLibrary.csprojAssemblyReference.cache
