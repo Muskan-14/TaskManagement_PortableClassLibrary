@@ -1,0 +1,52 @@
+[
+  {
+    "UserName": "admin123",
+    "Name": "Administrator",
+	"EmailId":"admin@xyz.com",
+    "ProgrammingSkills": "All",
+	"UserGroup" : "Administrator",
+	"Compensation" : 0
+
+  },
+  {
+  
+    "UserName": "proUser1",
+    "Name": "Muskan Sethia",
+	"EmailId":"prouser1@xyz.com",
+    "ProgrammingSkills": "CSharp",
+	"UserGroup" : "ProUser",
+	"Compensation" : 0
+
+  },
+  
+  {
+  
+    "UserName": "proUser2",
+    "Name": "Nimisha Jain",
+	"EmailId":"prouser2@xyz.com",
+    "ProgrammingSkills": "Angular",
+	"UserGroup" : "ProUser",
+	"Compensation" : 0
+
+  },
+  {
+  
+    "UserName": "publicUser1",
+    "Name": "Public User",
+	"EmailId":"publicuser1@xyz.com",
+    "ProgrammingSkills": "CSharp",
+	"UserGroup" : "PublicUsers",
+	"Compensation" : 4000
+
+  },
+  {
+  
+    "UserName": "publicUser2",
+    "Name": "Public User",
+	"EmailId":"publicuser2@xyz.com",
+    "ProgrammingSkills": "Angular",
+	"UserGroup" : "PublicUsers",
+	"Compensation" : 0
+
+  }
+]
